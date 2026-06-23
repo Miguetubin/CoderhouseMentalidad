@@ -1,5 +1,13 @@
 # Cómo mejoré mi Proyecto Final de QA Manual hasta lograr su aprobación
 
+Autor: Miguel Tubin
+
+Curso: Mentalidad y Crecimiento
+
+Diplomatura: Desarrollo Web Full Stack
+
+Fecha: Junio 2026
+
 ## Contexto
 
 Durante el cursado de la Diplomatura en Desarrollo Web Full Stack de Coderhouse, realicé el Proyecto Final de Testing QA Manual. El objetivo consistía en diseñar casos de prueba, documentar defectos, realizar pruebas de API utilizando Postman, ejecutar pruebas no funcionales mediante Lighthouse y elaborar un informe final integrador.
